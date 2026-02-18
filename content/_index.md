@@ -2,7 +2,7 @@
 action_label: Keep Swimming &rarr;
 action_link: /about
 action_type: text
-description: 
+
 image_left: true
 images:
 - img/rsmasbeach.jpg

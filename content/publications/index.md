@@ -5,7 +5,7 @@ title: Publications and Working Papers
 
 ## Peer-Reviewed
 
-### [Striving for Imrpovement: The Perceived Value of Improving Hurricane Forecast Accuracy](https://journals.ametsoc.org/view/journals/bams/102/7/BAMS-D-20-0179.1.xml)
+### [Striving for Improvement: The Perceived Value of Improving Hurricane Forecast Accuracy](https://journals.ametsoc.org/view/journals/bams/102/7/BAMS-D-20-0179.1.xml)
 Molina, R., Letson, D., McNoldy, B., Mozumder, P., and **Varkony, M.,** Striving for Improvement: The Perceived Value of Improving Hurricane Forecast Accuracy. Bulletin of the American Meteorological Society, 102(7), pp.E1408-E1423. 
 
 Coverage: [UM Press](https://news.miami.edu/rosenstiel/stories/2021/09/public-will-pay-over-500-million-a-year-for-hurricane-forecast-improvements-study-finds.html)

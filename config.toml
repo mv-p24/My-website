@@ -9,7 +9,8 @@ disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 5
+[pagination]
+  pagerSize = 5
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -89,30 +90,10 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/mv-p"
-  ## [[params.social]]
-     ## icon      = "facebook-square" # icon name without the 'fa-'
-      ##icon_pack = "fab"
-      ## url       = " "
-  ##[[params.social]]
-    ##  icon      = "instagram" # icon name without the 'fa-'
-      ##icon_pack = "fab"
-    ##  url       = " "
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/mv_p_"
-  ##[[params.social]]
-      ## icon      = "impactstory" # icon name without the 'fa-'
-    ##  icon_pack = "ai"
-    ##  url       = " "
-  ##[[params.social]]
-      ##icon      = "orcid" # icon name without the 'fa-'
-    ##  icon_pack = "ai"
-      ##url       = " "
-  ##[[params.social]]
-    ##  icon      = "rss" # icon name without the 'fa-'
-      ##icon_pack = "fas"
-    ##  url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -131,33 +112,15 @@ enableEmoji = true
     title = "Publications"
     url = "/publications/"
     weight = 2
-  #[[menu.header]]
-  #  name = "Blog"
-  #  title = "Blog"
-  #  url = "/blog/"
-  #  weight = 3
-  ##[[menu.header]]
-    ##name = "Elements"
-    ##title = "Element Page"
-    ##url = "/elements/"
-    ##weight = 4
-    
+
   # Configure footer  
-  ##[[menu.footer]]
-    ##name = "License"
-    ##title = "License"
-    ##url = "/license/"
-    ##weight = 1
+
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
     weight = 1
-  #[[menu.footer]]
-  #  name = "Contributors"
-  #  title = "Contributors"
-  #  url = "/contributors/"
-  #  weight = 3
+
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
