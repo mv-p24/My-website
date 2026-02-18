@@ -1,0 +1,16 @@
+---
+title: "Geocoding for Free: ArcGIS Pro"
+author: "Matt Varkony"
+date: '2022-06-11'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+There are a number of geocoding programs out there that will quickly take your take your non-spatial data and transform it into a spatial data set. However, a majority of these applications require some cost schedule that can quickly get expsenive as the size of your data set increases. 
+
+Luckily there are other techniques that take a little bit more time, but can be used freely as long as you have a subscription to ArcGIS. Access to this app is definitely a perk of being employed by a University, but many other companies provide ArcGIS licenses. 
+
+The first step in geocoding address data is to create a custom address locator in the ArcGIS. Organizations that maintain current data often provide the best data to help create these custom locators. County tax collectors, specifically in the state of Florida create database files of all land use parcels in Florida. These parcel layers are created each year by the individual counties that turn in there files in the March of the given year. 

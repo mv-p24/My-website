@@ -1,0 +1,80 @@
+---
+title: "Website Preparation"
+author: ""
+date: "March 2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In order to get as much out of this workshop as possible we have created this document as a pre-workshop guide to some of the software we will be using.
+
+### Definitions
+1. **R** -  is a language and environment for statistical computing and graphics. We will be using it to interact with our website generator.
+2. **R Studio** - A tool to support R code editing and execution, as well as plotting, debugging and workspace managment. We will use it to edit and view our website
+3. **Markdown** - A syntax for creating HTML, PDF, and word documents, can contain chunks of embedded R code (R markdown).
+4. **Hugo** - An open-source static website generator.
+5. **Blogdown** - An R package that allows you to create websites with R Markdown and Hugo.
+6. **Git** - A system for tracking changes to source code during software development. We will be using it to track changes to the code for our websites.
+7. **GitHub** - A company/website that provides hosting for software development version control using. Where our website code will be hosted 
+8. **Netlify** - A cloud computing site that hosts and automatically deploys web projects thorough 
+9. **Github YAML metadata** - Information at the top of your website pages.
+
+**Note**: There are a million ways to skin a cat. You can use different static website generators, different languages and different hosting services. This is a simple method for people who do not know html, or do not have the time to build a website from scratch, or who simply do not want to pay (ever).
+
+### Pre-workshop Steps
+1. Use the following link to [\textcolor{blue}{download R}](https://www.r-project.org/)
+
+2. Use the following link to [\textcolor{blue}{download RStudio}](https://rstudio.com/). You cannot use Rstudio without R.
+
+3. Once R and RStudio are installed, run the following lines of code within Rstudio to install Hugo from the [\textcolor{blue}{blogdown}](https://bookdown.org/yihui/blogdown/) package.
+
+```{r required packages,eval=FALSE}
+
+## Install blogdown from CRAN
+install.packages("blogdown",repos = "http://cran.us.r-project.org")
+
+## Install Hugo from the blogdown package
+blogdown::install_hugo()
+```
+
+4. Check and/or update Hugo version with the following functions:
+
+```{r hugo version,eval=FALSE}
+## Check version
+blogdown::hugo_version()
+
+## Update version
+blogdown::update_hugo()
+```
+
+
+5. Create a [\textcolor{blue}{Github account}](https://github.com/). You will probably want a pretty thoughtful username as you will probably use this professionally in the future. [\textcolor{blue}{Download the GitHub desktop app}](https://desktop.github.com/). If things don't go well with Git we will revert back to this app.
+
+6. Become familiar with Git using [\textcolor{blue}{happygitwithr}](happygitwithr.com). The followig chapters will be important:
+* Install Git - [\textcolor{blue}{Chapter 6}](https://happygitwithr.com/install-git.html)
+* Introduce yourself to Git - [\textcolor{blue}{Chapter 7}](https://happygitwithr.com/hello-git.html)
+* Connect to GitHub - [\textcolor{blue}{Chapter 9}](https://happygitwithr.com/push-pull-github.html)
+* Connect Rstudio to Git and GitHub - [\textcolor{blue}{Chapter 12}](https://happygitwithr.com/rstudio-git-github.html)
+
+6. Create a [\textcolor{blue}{Netlify account}](https://app.netlify.com/).
+
+7. Get familiar with [\textcolor{blue}{markdown}](https://www.markdownguide.org/getting-started/) syntax. Example: How to create headings or insert URLs? Use this [\textcolor{blue}{cheatsheet}](https://www.markdownguide.org/cheat-sheet/) or other links on the page as references.
+You can also install the [\textcolor{blue}{Rmarkdown} ](https://rmarkdown.rstudio.com/lesson-1.html) package by running the lines below if you want to include R code on your site.
+```{r, eval=FALSE}
+install.packages("rmarkdown") # install the package in R
+# Follow the directions on the Rmarkdown website for creating a stand alone document from R
+```
+**Note:** You will only be able to produce HTML files until you install MiKTeX. This is beyond the scope of the workshop.
+
+8. Be sure to gather the content you may want to put on your page prior to the workshop. This can include the following:
+* Professional headshot
+* CV or resume
+* Short bio
+* Blog entries
+* Additional pictures
+* Publication or presentations and the online links
+* Anything you want to feature on your site
+ 

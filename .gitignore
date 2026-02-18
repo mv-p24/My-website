@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+themes/hugo-apero/static/fontawesome-free-6.1.1-web/
+# Ignore the massive icon library
+themes/hugo-apero/static/fontawesome-free-6.1.1-web/
+
+# Ignore Hugo build artifacts
+public/
+resources/
+.hugo_build.lock
+
+# Ignore local R files
+.Rprofile
+.Rproj.user/
