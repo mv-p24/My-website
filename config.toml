@@ -33,7 +33,7 @@ enableEmoji = true
   orgLocal = " "
   #description = "A modern, beautiful, and easily configurable blog theme for Hugo"
   favicon = "/img/favicon.ico"
-  logo = "/img/u.png"
+  logo_text = "MV"  # header initials (see layouts/partials/header.html)
   mainSections = [""]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -89,11 +89,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/mv-p"
+      url       = "https://github.com/mv-p24"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/mv_p_"
+      url       = "https://www.linkedin.com/in/mvarkony/"
 
 [taxonomies]
   category = "categories"

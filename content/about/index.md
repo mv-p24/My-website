@@ -4,30 +4,35 @@ title: "About Matthew Varkony" # leave black to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent date
 number_categories: 3 # set to 0 to exclude
+show_pagination: false # no prev/next link at the bottom
 ---
 
 
 <style>
-  img.two {
-  height: 30%; 
-  width: 35%;
+  /* Headshot floats left of the bio on wide screens, stacks above it on phones */
+  img.headshot {
+    float: left;
+    width: 220px;
+    margin: 0.35rem 2rem 1rem 0;
+    border-radius: 4px;
+  }
+  .clear-float { clear: both; }
+  @media (max-width: 40em) {
+    img.headshot { float: none; display: block; margin: 0 auto 1.5rem; }
   }
 </style>
-</head>
-<body>
 
-
-<img class="two" src="/img/varkony_headshot.jpg" alt="drawing"/>
-
-#### **Bio:** 
+<img class="headshot" src="/img/varkony_headshot.jpg" alt="Headshot of Matt Varkony"/>
 
 I am a Manager in Climate Risk at EY's Climate Change and Sustainability Services practice in New York, where I co-lead the climate risk team. I advise Fortune 500 companies on physical and transition risk, decarbonization strategy, and climate data. My work connects scenario analysis to capital planning, asset valuation, and investment decisions.
 
-I earned a PhD in Environmental Economics from the University of Miami's Rosenstiel School in 2024. My research estimates how climate hazards and resilience investments are priced into property values. It includes peer-reviewed economics research, a regional flood-risk study for the Tampa Bay Regional Planning Council, and a resilience policy toolkit for the University's Office of Civic Engagement. See [Projects](/project/) for details.
+I earned a PhD in Environmental Economics from the University of Miami's Rosenstiel School in 2024. My research estimates how climate hazards and resilience investments are priced into property values. It includes peer-reviewed economics research, a regional flood-risk study for the Tampa Bay Regional Planning Council, and a resilience policy toolkit for the University's Office of Civic and Community Engagement. See [Projects](/project/) for details.
 
 I also hold an M.S. in Natural Hazards Analysis and a B.S. in Mathematics and Economics from the University of Miami, and the GARP Sustainability and Climate Risk (SCR) certificate.
 
 Outside of work, I enjoy golf and basketball.
+
+<div class="clear-float"></div>
 
 #### **Experience:**
 
