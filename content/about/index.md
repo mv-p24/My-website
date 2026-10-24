@@ -58,6 +58,26 @@ Key highlights:
 
 - Led execution of an econometric study on multi-gigabyte property data, published in a top field environmental economics journal, that produced causal evidence that climate-resilience investments (seawalls, water pumps, and stormwater infrastructure) protect nearby property values.
 - Designed and executed causal econometric research on how climate hazards affect housing markets, vulnerability, and market repricing, with implications for property valuation and insurance.
-- Examined property insurance under rising catastrophe risk as research complementing the housing-market work, including how flood-zone designation relates to property-market outcomes.
 - Built analysis-ready panels in R, joining geospatial layers (land use, land cover, and tree cover) to parcel-level property records at scale using ArcGIS and QGIS.
 - Co-authored a peer-reviewed article using stated-preference econometrics to estimate household willingness to pay for improved hurricane forecasting.
+
+#### **Education:**
+
+**PhD, Environmental Economics** | University of Miami, Rosenstiel School | 2024
+
+Dissertation: [*Essays on Housing Affordability and Climate Risk in Florida*](/project/dissertation-florida-housing/). Advisor: Renato Molina.
+
+**M.S., Natural Hazards Analysis** | University of Miami
+
+**B.S., Mathematics and Economics** | University of Miami
+
+#### **Fellowships:**
+
+- Gulf Research Program Science Policy Fellow, National Academies of Sciences, at the Tampa Bay Regional Planning Council (2021–2022)
+- Graduate Student Coastal and Ocean Fellowship
+
+#### **Certifications:**
+
+- GARP Sustainability and Climate Risk (SCR) Certificate
+
+*Resume available on request at [mvarkony@gmail.com](mailto:mvarkony@gmail.com).*
