@@ -3,12 +3,17 @@ author: Matt Varkony
 title: Publications and Working Papers
 ---
 
+This page includes my published papers, my dissertation papers, and papers I worked on as a research assistant.
+
 ## Peer-Reviewed
 
 ### [Striving for Improvement: The Perceived Value of Improving Hurricane Forecast Accuracy](https://journals.ametsoc.org/view/journals/bams/102/7/BAMS-D-20-0179.1.xml)
 Molina, R., Letson, D., McNoldy, B., Mozumder, P., and **Varkony, M.,** Striving for Improvement: The Perceived Value of Improving Hurricane Forecast Accuracy. Bulletin of the American Meteorological Society, 102(7), pp.E1408-E1423. 
 
 Coverage: [UM Press](https://news.miami.edu/rosenstiel/stories/2021/09/public-will-pay-over-500-million-a-year-for-hurricane-forecast-improvements-study-finds.html)
+
+### [Adaptation Infrastructure and Its Effects on Property Values in the Face of Climate Risk](https://www.journals.uchicago.edu/doi/abs/10.1086/725109)
+Kelly, D. L., and Molina, R., Adaptation Infrastructure and Its Effects on Property Values in the Face of Climate Risk. Journal of the Association of Environmental and Resource Economists, 10(6), pp.1405-1438. 
 
 ## Government Reports 
 
