@@ -15,6 +15,9 @@ Coverage: [UM Press](https://news.miami.edu/rosenstiel/stories/2021/09/public-wi
 ### [Adaptation Infrastructure and Its Effects on Property Values in the Face of Climate Risk](https://www.journals.uchicago.edu/doi/abs/10.1086/725109)
 Kelly, D. L., and Molina, R., Adaptation Infrastructure and Its Effects on Property Values in the Face of Climate Risk. Journal of the Association of Environmental and Resource Economists, 10(6), pp.1405-1438. 
 
+### [Safety Effects of Property Rights Contract Changes: Evidence from Field Experience in Fisheries](https://repository.library.noaa.gov/view/noaa/66917)
+Marvasti, A., Safety Effects of Property Rights Contract Changes: Evidence from Field Experience in Fisheries. Journal of Government and Economics, 13, 100105. 
+
 ## Government Reports 
 
 ### [Affordable Housing and Flood Risk Throughout the Region: A Density Analysis of Flood Risk and Social Vulnerability](https://tbrpc.org/reach/)
