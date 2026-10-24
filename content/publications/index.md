@@ -27,7 +27,10 @@ Marvasti, A., Safety Effects of Property Rights Contract Changes: Evidence from 
 ## Working Papers 
 
 ### Hurricane Wilma and Affordable Housing in Southeast Florida 
+*Working paper, in revision.*
 
-### [Hurricane Irma's Effect on Rental Housing in Florida](chaptertwo.pdf)
+### Hurricane Irma's Effect on Rental Housing in Florida
+*Working paper, in revision.*
 
-### [Mobile Homes and Climate Risks in Florida](chapterthree.pdf)
+### Mobile Homes and Climate Risks in Florida
+*Working paper, in revision.*
